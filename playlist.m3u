@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/siba.com.co.xml"
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General",Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://i.imgur.com/svNeBNv.png" group-title="General",TDI Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
